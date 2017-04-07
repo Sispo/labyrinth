@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(158): warning C4309: 'initializing': truncation of constant value
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(175): warning C4309: 'initializing': truncation of constant value
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(201): warning C4101: 'readData': unreferenced local variable
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(378): warning C4309: 'initializing': truncation of constant value
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(379): warning C4309: 'initializing': truncation of constant value
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(437): warning C4101: 'sourceFile': unreferenced local variable
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(130): warning C4715: 'Stack::topElement': not all control paths return a value
+c:\users\sispo\documents\visual studio 2015\projects\consoleapplication49\consoleapplication49\source.cpp(124): warning C4715: 'Stack::pop': not all control paths return a value
+  ConsoleApplication49.vcxproj -> C:\Users\Sispo\Documents\Visual Studio 2015\Projects\ConsoleApplication49\Debug\ConsoleApplication49.exe
+  ConsoleApplication49.vcxproj -> C:\Users\Sispo\Documents\Visual Studio 2015\Projects\ConsoleApplication49\Debug\ConsoleApplication49.pdb (Full PDB)
